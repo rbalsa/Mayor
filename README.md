@@ -13,6 +13,15 @@
 # Análisis
 
 
+
+
+
+
+
+
+
+
+
 # Algoritmo
 * Declarar 2 variables de tipo entero; "i", "j", ϵ Z
 * Ingresar variable "i"
