@@ -12,7 +12,7 @@
 
 # Análisis
 
-![Mayor](Mayor.png)
+![Mayor](mayor.png)
 
 
 
