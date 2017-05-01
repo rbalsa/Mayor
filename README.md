@@ -1,5 +1,6 @@
 # 051-04-02-Mayor
 
+
 # Integrantes
 * Ramiro Balsa
 * Melina Cuellar
@@ -7,17 +8,28 @@
 * Yamil Alejandro Lopez
 * Ignacio Muñoz
 
+
 # Enunciado
 * Dado dos números informar cuál es el mayor.
+
 
 # Análisis
 
 ![Mayor](mayor.png)
 
 
+# Lexico
 
+1.En el programa itineracion.cpp se utilizo:
 
-
+   i,j -> entero
+   k = 0
+	 
+	 if (i>j)
+   
+   else if (i<j)
+   
+   else if (i==j)
 
 
 # Algoritmo
