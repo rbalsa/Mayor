@@ -20,8 +20,6 @@
 
 # Lexico
 
-1.En el programa itineracion.cpp se utilizo:
-
    i,j -> entero
    k = 0
 	 
