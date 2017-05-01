@@ -21,6 +21,7 @@
 # Lexico
 
    i,j -> entero
+  
    k = 0
 	 
 	 if (i>j)
